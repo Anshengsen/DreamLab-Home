@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh" class="home-page">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DreamLab - 创意实验室</title>
+    <link rel="icon" href="icons/dreamlab.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+    <div class="hero-bg">
+        <img src="images/背景图-01.png" alt="背景">
+    </div>
+    <div class="aurora"></div>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <img src="icons/dreamlab.svg" alt="DreamLab">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="active" data-lang-key="nav.home">首页</a></li>
+                    <li><a href="opensource.html" data-lang-key="nav.opensource">开源项目</a></li>
+                    <li><a href="nonopensource.html" data-lang-key="nav.nonopensource">非开源项目</a></li>
+                    <li><a href="selfhosted.html" data-lang-key="nav.selfhosted">自运营网站</a></li>
+                    <li><a href="models.html" data-lang-key="nav.models">AI模型</a></li>
+                    <li><a href="knowledge.html" data-lang-key="nav.knowledge">知识库</a></li>
+                    <li><a href="contact.html" data-lang-key="nav.contact">关注我们</a></li>
+                </ul>
+            </nav>
+            <div class="controls">
+                <div class="theme-toggle">
+                    <svg class="icon sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                    <svg class="icon moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </div>
+                <div class="lang-selector">
+                    <div class="current-lang">
+                        <span class="flag china"></span>
+                        <span>中文</span>
+                    </div>
+                    <div class="lang-dropdown">
+                        <div class="lang-option" data-lang="zh">
+                            <span class="flag china"></span>
+                            <span>中文</span>
+                        </div>
+                        <div class="lang-option" data-lang="en">
+                            <span class="flag usa"></span>
+                            <span>English</span>
+                        </div>
+                        <div class="lang-option" data-lang="ja">
+                            <span class="flag japan"></span>
+                            <span>日本語</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main>
+            <section class="hero">
+                <div class="hero-content">
+                    <h1 data-lang-key="hero.title">DreamLab</h1>
+                    <div class="hero-info">
+                        <div class="info-item">
+                            <span data-lang-key="hero.age">年龄：00后</span>
+                        </div>
+                        <div class="info-item">
+                            <span data-lang-key="hero.sign">星座：处女座</span>
+                        </div>
+                        <div class="info-item">
+                            <span data-lang-key="hero.gender">性别：男</span>
+                        </div>
+                    </div>
+                    <div class="hero-tags">
+                        <div class="tag-group">
+                            <span class="tag" data-lang-key="hero.hobby1">#追剧</span>
+                            <span class="tag" data-lang-key="hero.hobby2">#发呆</span>
+                            <span class="tag" data-lang-key="hero.hobby3">#听歌</span>
+                        </div>
+                        <div class="tag-group">
+                            <span class="tag" data-lang-key="hero.tag1">#慕强</span>
+                            <span class="tag" data-lang-key="hero.tag2">#爱财</span>
+                        </div>
+                    </div>
+                    <div class="hero-motto">
+                        <span data-lang-key="hero.motto">生活不止眼前的苟且，还有以后的苟且。</span>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+    <div class="footer-content">
+        <div class="footer-emails">
+            <span>1938606725@qq.com</span>
+            <span class="footer-separator"></span>
+            <span>shengsena@gmail.com</span>
+        </div>
+        <p data-lang-key="footer.copyright">&copy; 2025-现在 DreamLab</p>
+    </div>
+</footer>
+    </div>
+    <script src="js/translations.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
