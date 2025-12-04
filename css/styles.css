@@ -255,15 +255,15 @@ nav a.active {
 }
 
 .flag.china {
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20"><rect fill="%23DE2910" width="30" height="20"/><path fill="%23FFDE00" d="M5,3 L6,7 L10,7 L7,9 L8,13 L5,11 L2,13 L3,9 L0,7 L4,7 Z"/><path fill="%23FFDE00" d="M12,2 L12.5,3 L13.5,3 L12.7,3.7 L13,4.7 L12.2,4 L11.4,4.7 L11.7,3.7 L10.9,3 L11.9,3 Z"/><path fill="%23FFDE00" d="M12,6 L12.5,7 L13.5,7 L12.7,7.7 L13,8.7 L12.2,8 L11.4,8.7 L11.7,7.7 L10.9,7 L11.9,7 Z"/><path fill="%23FFDE00" d="M12,10 L12.5,11 L13.5,11 L12.7,11.7 L13,12.7 L12.2,12 L11.4,12.7 L11.7,11.7 L10.9,11 L11.9,11 Z"/><path fill="%23FFDE00" d="M9,8 L9.5,9 L10.5,9 L9.7,9.7 L10,10.7 L9.2,10 L8.4,10.7 L8.7,9.7 L7.9,9 L8.9,9 Z"/></svg>');
+    background-image: url('https://flagcdn.com/cn.svg');
 }
 
 .flag.usa {
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20"><rect fill="%23B22234" width="30" height="20"/><rect y="1.54" fill="white" width="30" height="1.54"/><rect y="4.62" fill="white" width="30" height="1.54"/><rect y="7.69" fill="white" width="30" height="1.54"/><rect y="10.77" fill="white" width="30" height="1.54"/><rect y="13.85" fill="white" width="30" height="1.54"/><rect y="16.92" fill="white" width="30" height="1.54"/><rect fill="%233C3B6E" width="12" height="10.77"/></svg>');
+    background-image: url('https://flagcdn.com/us.svg');
 }
 
 .flag.japan {
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20"><rect fill="white" width="30" height="20"/><circle fill="%23BC002D" cx="15" cy="10" r="6"/></svg>');
+    background-image: url('https://flagcdn.com/jp.svg');
 }
 
 .lang-dropdown {
