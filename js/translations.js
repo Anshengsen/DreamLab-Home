@@ -56,6 +56,8 @@ const translations = {
         'project.open-wdmn.desc': '一款功能媲美桌面软件、体验极致流畅、完全在浏览器本地运行的文档编辑器工具',
         'project.open-tpxx.title': 'open-tpxx',
         'project.open-tpxx.desc': '一款体验极致流畅、完全在浏览器运行读取的图片信息提取工具',
+        'project.open-yybf.title': 'open-yybf',
+        'project.open-yybf.desc': '一款功能媲美桌面软件、体验极致流畅、完全在浏览器本地运行的赛博朋克风格音乐播放器工具',
         
         // 非开源项目
         'project.qianfanCreative.title': 'QianfanCreative',
@@ -159,7 +161,7 @@ const translations = {
         'contact.taobao.title': '淘宝店铺',
         'contact.taobao.desc': '访问淘宝店铺购买产品',
         'contact.gumroad.title': 'Gumroad店铺',
-        'contact.gumroad.desc': '访问Gumroad店铺购买数字产品'
+        'contact.gumroad.desc': '访问Gumroad店铺购买数字产品',
     },
     en: {
         'nav.home': 'Home',
@@ -218,6 +220,8 @@ const translations = {
         'project.open-wdmn.desc': 'A document editor tool with desktop-level features, extremely smooth experience that runs completely locally in the browser',
         'project.open-tpxx.title': 'open-tpxx',
         'project.open-tpxx.desc': 'An extremely smooth experience image information extraction tool that runs completely in the browser',
+        'project.open-yybf.title': 'open-yybf',
+        'project.open-yybf.desc': 'A cyberpunk-style music player tool with desktop-level functionality, extremely smooth experience, and runs completely locally in the browser',
         
         // 非开源项目
         'project.qianfanCreative.title': 'QianfanCreative',
@@ -321,7 +325,7 @@ const translations = {
         'contact.taobao.title': 'Taobao Store',
         'contact.taobao.desc': 'Visit Taobao store to purchase products',
         'contact.gumroad.title': 'Gumroad Store',
-        'contact.gumroad.desc': 'Visit Gumroad store to purchase digital products'
+        'contact.gumroad.desc': 'Visit Gumroad store to purchase digital products',
     },
     ja: {
         'nav.home': 'ホーム',
@@ -380,6 +384,8 @@ const translations = {
         'project.open-wdmn.desc': 'デスクトップレベルの機能を備え、極めて滑らかな体験のドキュメントエディタツール、完全にブラウザでローカル実行',
         'project.open-tpxx.title': 'open-tpxx',
         'project.open-tpxx.desc': '極めて滑らかな体験の画像情報抽出ツール、完全にブラウザで実行',
+        'project.open-yybf.title': 'open-yybf',
+        'project.open-yybf.desc': 'デスクトップアプリケーション並みの機能を備え、極めて滑らかな操作性を持ち、完全にブラウザ上でローカル実行されるサイバーパンク風音楽プレイヤーツール',
         
         // 非开源项目
         'project.qianfanCreative.title': 'QianfanCreative',
