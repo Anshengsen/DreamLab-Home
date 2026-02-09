@@ -74,6 +74,8 @@ const translations = {
         'site.306art.desc': 'AI 绘画提示词灵感库',
         'site.306mask.title': '306 Mask',
         'site.306mask.desc': '蒙版遮罩绘制工具',
+        'site.306tag.title': '306 Tag',
+        'site.306tag.desc': 'AI 绘画提示词生成器',
         
         // 开源模型
         'model.japanAnime.title': '造梦实验室-风格加强-日系动漫-FLUX',
@@ -229,6 +231,9 @@ const translations = {
         'site.306art.desc': 'AI Art Prompt Inspiration Library',
         'site.306mask.title': '306 Mask',
         'site.306mask.desc': 'Mask Drawing Tool',
+        'site.306tag.title': '306 Tag',
+        'site.306tag.desc': 'AI Art Prompt Generator',
+
         
         // 开源模型
         'model.japanAnime.title': 'DreamLab-StyleEnhanced-JapaneseAnime-FLUX',
@@ -384,6 +389,8 @@ const translations = {
         'site.306art.desc': 'AIアートプロンプトのインスピレーションライブラリ',
         'site.306mask.title': '306 Mask',
         'site.306mask.desc': 'マスク描画ツール',
+        'site.306tag.title': '306 Tag',
+        'site.306tag.desc': 'AIアートプロンプト生成ツール',
 
         
         // 开源模型
